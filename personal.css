@@ -1,0 +1,172 @@
+header{
+    justify-self: end;
+    justify-content: center;
+    justify-content: space-between;
+    word-spacing: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hed{
+    word-spacing: 1px;
+}
+body {
+    font-family: sans-serif;
+}
+
+.hole {
+    text-align: center;
+}
+
+.me {
+    text-align: center;
+}
+
+.ig {
+    justify-self: center;
+    border-radius: 50%;
+
+
+}
+
+.container {
+    justify-items: center;
+
+}
+
+.container1 {
+    text-align: center;
+    display: flex;
+}
+
+.container2 {
+    display: flex;
+    text-align: center;
+}
+
+.p1 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    border-radius: 5px yellow;
+    margin: 8px;
+    padding: 8px;
+
+}
+
+.p2 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+.p3 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+
+}
+
+.p4 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+.p5 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+.p6 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+.p7 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+.p8 {
+    width: 150px;
+    height: 100px;
+    border: solid black;
+    margin: 8px;
+    padding: 8px;
+}
+
+ul {
+    justify-self: center;
+    display: flex;
+}
+
+.fot {
+    text-align: center;
+}
+
+.clik {
+    color: white;
+    background-color: black;
+    height: 20px;
+    width: 150px;
+    border-radius: 5px;
+    border: solid black;
+    justify-self: center;
+}
+
+.clik:hover {
+    border: 1px solid black;
+}
+
+.p1:hover {
+    box-shadow: 1px 1px;
+}
+
+.p2:hover {
+    box-shadow: 1px 1px;
+}
+
+.p3:hover {
+    box-shadow: 1px 1px;
+}
+
+.p4:hover {
+    box-shadow: 1px 1px;
+}
+
+.p5:hover {
+    box-shadow: 1px 1px;
+}
+
+.p6:hover {
+    box-shadow: 1px 1px;
+}
+
+.p7:hover {
+    box-shadow: 1px 1px;
+}
+
+.p8:hover {
+    box-shadow: 1px 1px;
+}
+main{
+    background-color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+}
